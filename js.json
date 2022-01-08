@@ -1,0 +1,193 @@
+[
+   {
+      "id":1,
+      "question":"Kto był pierwszym słynnym filozofem w starożytnej Grecji?",
+      "a":"Platon",
+      "b":"Sokrates",
+      "c":"Arystoteles",
+      "d":"Tomasz z Akwinu",
+      "answer":"b"
+   },
+   {
+      "id":2,
+      "question":"Który z tych filozofów był studentem słynnego Platona?",
+      "a":"Ekumeniusz",
+      "b":"Sokrates",
+      "c":"Tales",
+      "d":"Arystoteles",
+      "answer":"d"
+   },
+   {
+      "id":3,
+      "question":"Kto był studentem Sokratesa?",
+      "a":"Hermiasz",
+      "b":"Arystoteles",
+      "c":"Platon",
+      "d":"Heraklit",
+      "answer":"c"
+   },
+   {
+      "id":4,
+      "question":"Gdzie wygłaszano nauki trzech słynnych filozofów: Sokratesa, Platona i Arystotelesa?",
+      "a":"Każda odpowiedź jest poprawna.",
+      "b":"W szkołach, które założyli Sokrates i Arystoteles.",
+      "c":"W szkole Sokratesa.",
+      "d":"W prywatnych szkołach.",
+      "answer":"b"
+   },
+   {
+      "id":5,
+      "question":"Czym jest filozofia?",
+      "a":"To teorie o tym, czym jest świat.",
+      "b":"Wiedzą o kulturze.",
+      "c":"Opowiada o religii i sensie życia.",
+      "d":"Każda odpowiedź jest poprawna.",
+      "answer":"a"
+   },
+   {
+      "id":6,
+      "question":"Kto był słynnym filozofem, który pojawił się po Arystotelesie?",
+      "a":"Sokrates",
+      "b":"Pitagoras",
+      "c":"Nie było takiego.",
+      "d":"Tales",
+      "answer":"c"
+   },
+   {
+      "id":7,
+      "question":"Co zrobił Platon, aby założyć własną szkołę?",
+      "a":"Spisał nauki Sokratesa.",
+      "b":"Spisał pomysły Arystotelesa.",
+      "c":"Stworzył własną filozofię.",
+      "d":"Wykorzystał nauki Arystotelesa, Sokratesa i swoje.",
+      "answer":"a"
+   },
+   {
+      "id":8,
+      "question":"Który grecki filozof mieszkał w beczce?",
+      "a":"Heraklit",
+      "b":"Diogenes",
+      "c":"Antystenes",
+      "d":"Demokryt",
+      "answer":"b"
+   },
+   {
+      "id":9,
+      "question":"Od czego, zdaniem Arystotelesa należy zaczynać badanie?",
+      "a":"Od sformułowania hipotezy",
+      "b":"Od pojęć, a właściwie od definicji, które stanowią podstawę prawidłowych pojęć",
+      "c":"Od sformułowania założeń",
+      "d":"Od dokładnej analizy każdego zagaadnienia",
+      "answer":"b"
+   },
+   {
+      "id":10,
+      "question":"Co początkowo oznaczało słowo filozofia",
+      "a":"Wszelki byt",
+      "b":"Naturę świata",
+      "c":"Ogół wiedzy, mądrość w ogóle, wykształcenie",
+      "d":"Inteligęcje",
+      "answer":"c"
+   },
+   {
+      "id":11,
+      "question":"Kto jako pierwszy użył słowa filozofia",
+      "a":"Sokrates",
+      "b":"Tales",
+      "c":"Pitagoras",
+      "d":"Kartezjusz",
+      "answer":"c"
+   },
+   {
+      "id":12,
+      "question":" Czy zdaniem Pitagorasa mądrość dostępna jest ludziom?",
+      "a":"Według Pitagorasa mądrość nie jest dostępna ludziom.",
+      "b":"Według Pitagorasa mądrość jest rzeczą ludzką, a miłość mądrości boską.",
+      "c":"Według Pitagorasa mądrość dostępna jest ludziom.",
+      "d":"Według Pitagorasa mądrość jest rzeczą boską, człowiek może co najwyżej dążyć do mądrości.",
+      "answer":"d"
+   },
+   {
+      "id":13,
+      "question":" Kiedy urodził się św. Tomasz?",
+      "a":"w III wieku p.n.e.",
+      "b":"w XIII w.",
+      "c":"na przełomie IV i V w. n.e.",
+      "d":"w XI w.",
+      "answer":"b"
+   },
+   {
+      "id":14,
+      "question":" Kim z pochodzenia był Św. Tomasz z Akwinu?",
+      "a":"Był Grekiem",
+      "b":"Był Włochem",
+      "c":"Był Polakiem",
+      "d":"Był Hiszpanem",
+      "answer":"b"
+   }, {
+      "id":15,
+      "question":" Co to jest szczęście, zdaniem Św. Tomasza?",
+      "a":"Poznanie Boga",
+      "b":"Gromadzenie i używanie dóbr materialnych",
+      "c":"Działanie zgodne z naturą",
+      "d":"Założenie rodziny",
+      "answer":"a"
+   }
+   , {
+      "id":16,
+      "question":"Która maksyma nie należy do Sokratesa?",
+      "a":"Odwaga jest to wiedza o tym, czego się bać, a czego nie.",
+      "b":"Szczęście jest przyjemnością wolną od wyrzutów sumienia.",
+      "c":"Wiem, że nic nie wiem.",
+      "d":"Nigdy nie zestarzeje się serce, które kocha.",
+      "answer":"a"
+   }, {
+      "id":17,
+      "question":"Jak długo żył?",
+      "a":"35 lat",
+      "b":"45 lat",
+      "c":"75 lat",
+      "d":"70 lat",
+      "answer":"d"
+   }, {
+      "id":18,
+      "question":"Kim jest Demiurg, według Platona?",
+      "a":"Malarzem",
+      "b":"Robotnikiem",
+      "c":"Boskim budowniczym świata",
+      "d":"Rzemieślnikiem",
+      "answer":"c"
+   }, {
+      "id":19,
+      "question":"Na czym opiera się państwo doskonałe, według Platona?",
+      "a":"Na rozwoju",
+      "b":"Na kodeksie",
+      "c":"Na dobroci",
+      "d":"Na idei dobra i sprawiedliwości",
+      "answer":"d"
+   }, {
+      "id":20,
+      "question":"Co Sokrates myślał o demokracji?",
+      "a":"Był przeciwnikiem",
+      "b":"Był zwolennikiem",
+      "c":"Miał neutralne zdanie",
+      "d":"Nie miał zdania",
+      "answer":"a"
+   }, {
+      "id":21,
+      "question":"Do kogo należy to zdanie 'Myślę więc jestem'",
+      "a":"Sokratesa",
+      "b":"Platona",
+      "c":"Pitagorasa",
+      "d":"Kartezjusza",
+      "answer":"d"
+   },{
+      "id":22,
+      "question":"Kiedy urodził się Kartezjusz?",
+      "a":"W 1688 roku",
+      "b":"W 1960 roku",
+      "c":"W 1596 roku",
+      "d":"W 1469 roku",
+      "answer":"c"
+   }
+]
